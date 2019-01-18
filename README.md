@@ -4,7 +4,7 @@ Simple and lightweight docker image for previewing Elasticsearch and Kibana.
 
 
 ### Usage
-#### build image with Dockerfile
+#### build
 ```
 docker build --tag elasticsearch-kibana-containerization .
 ```
